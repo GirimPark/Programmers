@@ -39,5 +39,8 @@
     <ClCompile Include="개인정보 수집 유효기간.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="키패드 누르기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
