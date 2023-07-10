@@ -45,13 +45,34 @@
     <ClCompile Include="크레인 인형뽑기 게임.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="H-Index.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="더 맵게.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="모의고사.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="올바른 괄호.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="더 맵게.cpp">
+    <ClCompile Include="중앙값 구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="지민이의 테러.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="카펫.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CCW.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="직사각형 넓이 구하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="내적.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
