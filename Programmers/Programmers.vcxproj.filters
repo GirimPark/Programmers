@@ -75,5 +75,8 @@
     <ClCompile Include="내적.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="DFS와 BFS.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
